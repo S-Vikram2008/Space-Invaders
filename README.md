@@ -4,12 +4,6 @@ A classic **Space Invaders** game built using **Python** and the **Pyray** graph
 
 ---
 
-# 📸 Preview
-
-![Game Screenshot](screenshot1.png)
-![Game Screenshot](screenshot2.png)
-
----
 
 # ✨ Features
 
