@@ -41,8 +41,6 @@ Space-Invaders/
 ├── player.png
 ├── ufo.png
 ├── README.md
-├── screenshot1.png
-├── screenshot2.png
 └── requirements.txt
 ```
 
